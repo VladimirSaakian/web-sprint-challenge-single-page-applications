@@ -18,22 +18,12 @@ h1{
   text-align: center;
 }
 
-nav{
+header{
   text-align: center;
+  margin: 1.5rem;
   
 }
 
-.button{
+#pizza-form{
   text-align: center;
-  padding-top: 30px;
-  
-}
-
-.orderForm{
-  text-align: center;
-  padding-top: 30px;
-}
-
-li{
-  list-style-type: none;
 }
